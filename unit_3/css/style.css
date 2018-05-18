@@ -1,12 +1,27 @@
+* {margin:0;padding:0;box-sizing:border-box;}
+}
 body {
-	color: #BCCDFF;
-	background-color: #6075B2
+	
 }
-
-h1 {
-	color: #FDF9FF;
+section {
+	padding:4em 0;
 }
-
+ul {
+	padding-left:1.25em;
+}
+.cta {
+	display:inline-block;
+	padding:1em 2em;
+	background:#6075b2;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;
+	width: 12em;
+	transition-duration:.25s;
+}
+.cta:hover {
+	background:#bccdff;
+}
 #slogan {
 	font-style: italic;
 }
