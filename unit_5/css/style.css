@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans|Bree+Serif');
+
+* {margin:0;padding:0;box-sizing:border-box;}
+}
+body {
+	background-color: ;
+	border: ;
+	padding: ;
+}
+header {
+	background-color: #FFED74;
+}
+nav {
+	background-color: #E8C66A;
+}
+footer {
+	background-color: #FF957E;
+}
+section {
+	padding:4em 0;
+	background-color: #FFE2B8;
+}
+ul {
+	padding-left:1.25em;
+}
+.cta {
+	display:inline-block;
+	padding:1em 2em;
+	background:#6075b2;
+	color:#fff;
+	text-decoration:none;
+	text-align:center;
+	width: 12em;
+	transition-duration:.25s;
+}
+.cta:hover {
+	background:#bccdff;
+}
+#intro {
+	font-family: 'Bree Serif', serif;
+	letter-spacing: 
+}
+#reasonswhy {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+#testimonials {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+#founder {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+#contactsection {
+	font-family: 'Alegreya Sans', sans-serif;
+}
+#owners {
+	font-family: 'Bree Serif', serif;
+}
+#tenants {
+	font-family: 'Bree Serif', serif;
+}
+#about{
+	font-family: 'Bree Serif', serif;
+}
+#contactuspage {
+	font-family: 'Bree Serif', serif;
+}
+
+
+
