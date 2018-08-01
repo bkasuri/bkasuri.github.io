@@ -56,19 +56,19 @@ a {
 }
 
 header img {
-	width: 75px;
+	width: 80%;
 }
 
 #founder img {
-	width: 400px;
+	width: 50%;
 }
 
 #testimonials img{
-	width: 200px;
+	width: 50%;
 }
 
 footer img{
-	width: 30px;
+	width: 100%;
 }
 
 
@@ -188,6 +188,15 @@ footer img{
 	margin-top: 20px;
 }
 
+@media only screen and (max-width: 800px)
+
+  nav {
+    float: none;
+  }	
+
+  img {
+    width: 230px;
+  }
 
 
 
